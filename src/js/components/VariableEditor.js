@@ -329,7 +329,8 @@ class VariableEditor extends React.PureComponent {
               this.submitEdit();
             }}
           />
-          <div>{this.showDetected()}</div>
+          <div> </div>
+          {/* <div>{this.showDetected()}</div> */}
         </div>
       </div>
     );
