@@ -34,13 +34,13 @@ fork from [microlinkhq/react-json-view](https://github.com/microlinkhq/react-jso
 ### Installation
 
 ```shell
-npm install @microlink/react-json-view --save
+npm install @alphax/react-json-view --save
 ```
 
 ### Usage
 
 ```js
-import ReactJsonView from "@microlink/react-json-view";
+import ReactJsonView from "@alphax/react-json-view";
 
 <ReactJsonView
   src={{
